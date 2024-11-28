@@ -1,15 +1,15 @@
-Meu primeiro site
+# Meu primeiro site
 
 Aqui será meu primeiro site feito com HTML, CSS e tavelz javascript e hospedando no github.
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 - HTML
 - CSS
 - Javascript
 
 Para ter acesso a esse site entre aq ---> <https://cvictorfm.github.io>
 
-Minha rede social
+### Minha rede social
 
 - [Instagram](https//:instagram.com)
 
