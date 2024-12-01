@@ -9,9 +9,6 @@ Aqui será meu primeiro site feito com HTML, CSS e tavelz javascript e hospedand
 
 Para ter acesso a esse site entre aq ---> <https://cvictorfm.github.io>
 
-### Minha rede social
-
-- [Instagram](https//:instagram.com)
 
 
 ![htmlcssjavascript](https://github.com/user-attachments/assets/53ff47d3-8149-49a6-b3b0-2647567ceca7)
